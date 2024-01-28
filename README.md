@@ -1,6 +1,6 @@
 # hKeyValue
 
-KeyValueStoreAPI is a simple API for managing key-value pairs using Redis.
+hKeyValue is a simple API for managing key-value pairs using Redis.
 
 ## Installation
 
