@@ -1,0 +1,6 @@
+@hKeyValue_HostAddress = http://localhost:5080
+
+GET {{hKeyValue_HostAddress}}/
+Accept: application/json
+
+###
