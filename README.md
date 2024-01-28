@@ -32,7 +32,7 @@ hKeyValue is a simple API for managing key-value pairs using Redis.
 - Method: `PUT`
 - Description: Stores a value for the specified key.
 - Request Body: Value to be stored.
-- Response: Status code 201 (Created) if successful, 403 (Forbidden) if the key already exists.
+- Response: Status code 201 (Created) if successful, 409 (Conflict) if the key already exists.
 
 Example:
 
