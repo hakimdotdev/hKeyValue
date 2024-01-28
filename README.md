@@ -2,6 +2,9 @@
 
 hKeyValue is a simple API for managing key-value pairs using Redis.
 
+## Redis Configuration
+The application currently uses a Testcontainers Redis instance for development and testing purposes. However, it's soon supported to use your own custom Redis instance.
+
 ## Installation
 
 1. Clone the repository:
