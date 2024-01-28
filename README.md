@@ -10,13 +10,13 @@ The application currently uses a Testcontainers Redis instance for development a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/KeyValueStoreAPI.git
+   git clone https://github.com/hakimdotdev/hKeyValue.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd KeyValueStoreAPI
+   cd hKeyValue
    ```
 
 3. Build and run the project:
